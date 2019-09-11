@@ -1,2 +1,6 @@
 # M.Explore
-my first repo
+
+
+Hi!
+
+I am interested in JAVA
